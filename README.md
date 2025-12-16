@@ -47,7 +47,7 @@ print(f"{normal:.2f}")
 
 ### 2-Norm of a Matrix
 <br>
-<br<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/9ed7fa65-3c4b-42a0-b6e5-cf9dd3d5f15a" />
+<br><img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/9ed7fa65-3c4b-42a0-b6e5-cf9dd3d5f15a" />
 
 <br>
 
